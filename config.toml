@@ -12,7 +12,7 @@ rv-brand = "ReVanced eXtended"
 [YouTube]
 enabled = true
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
-excluded-patches = "custom-branding-name custom-branding-icon-afn-red"                                                 # whitespace seperated list of patches to exclude (multiline strings are not supported)
+excluded-patches = "custom-branding-name custom-branding-icon-afn-red custom-seekbar-color custom-video-speed hide-captions-button hide-email-address hide-endscreen-cards hide-info-cards hide-seekbar hide-snackbar hide-stories hide-time-stamp sponsorblock swipe-controls theme"                                                 # whitespace seperated list of patches to exclude (multiline strings are not supported)
 included-patches = "custom-branding-icon-revancify"                                                 # whitespace seperated list of patches to include
 version = "auto"                                                      # 'auto', 'latest' or a custom one like '17.40.41'
 exclusive-patches = false                                             # excludes all patches by default
