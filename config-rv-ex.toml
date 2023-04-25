@@ -11,7 +11,7 @@ rv-brand = "ReVanced Extended"
 
 [YouTube]
 build-mode = "both"
-excluded-patches = "custom-branding-name custom-branding-icon-afn-red"
+excluded-patches = "custom-branding-name custom-branding-icon-afn-red custom-seekbar-color custom-video-speed hide-captions-button hide-email-address hide-endscreen-cards hide-info-cards hide-seekbar hide-snackbar hide-stories hide-time-stamp sponsorblock swipe-controls theme"
 included-patches = "custom-branding-icon-revancify"
 version = "auto"
 exclusive-patches = false
